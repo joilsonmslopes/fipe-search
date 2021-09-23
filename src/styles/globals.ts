@@ -14,6 +14,5 @@ export default createGlobalStyle`
     body, select, button {
         font-family: "Roboto", sans-serif;
         font-size: 1rem;
-        font-weight: 400;
     }
 `;
